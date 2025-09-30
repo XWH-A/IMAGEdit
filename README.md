@@ -149,17 +149,17 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 <table align="center">
   <tr>
     <td align="center" width="280">
-      <img src="asset/m2_720_gif/horse_ori_processed.gif" width="250"/>
+      <img src="asset/m2_720_gif/horse_ori_processed.gif" width="230"/>
       <br>
       <sub>Original Video</sub>
     </td>
     <td align="center" width="280">
-      <img src="asset/m2_720_gif/Horse-Parade-Team-Formation-all-2.gif" width="250"/>
+      <img src="asset/m2_720_gif/Horse-Parade-Team-Formation-all-2.gif" width="230"/>
       <br>
       <sub>Turn 1: Horse Riders -> Gokus</sub>
     </td>
     <td align="center" width="280">
-      <img src="asset/m2_720_gif/horse-Ironman_processed.gif" width="250"/>
+      <img src="asset/m2_720_gif/horse-Ironman_processed.gif" width="230"/>
       <br>
       <sub>Turn 2: The two above (Gokus -> Iron-Men)</sub>
     </td>
