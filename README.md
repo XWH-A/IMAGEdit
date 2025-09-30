@@ -2,6 +2,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://muzishen.github.io/IMAGEdit/)
 [![Technique Report](https://img.shields.io/badge/Technique-Report-red)](https://muzishen.github.io/IMAGEdit/)
 [![Dataset MSVBench](https://img.shields.io/badge/Dataset-MSVBench-orange)](https://muzishen.github.io/IMAGEdit/)
+[![GitHub stars](https://img.shields.io/github/stars/XWH-A/IMAGEdit?style=social)](https://github.com/XWH-A/IMAGEdit)
 
 <!-- [![🤗 Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-model-blue)](PLACEHOLDER_URL)
 [![Dataset MSVBench](https://img.shields.io/badge/Dataset-MSVBench-orange)](PLACEHOLDER_URL) -->
