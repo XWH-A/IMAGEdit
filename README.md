@@ -120,4 +120,4 @@ If you find IMAGEdit useful for your research, please cite:
 
 
 ## 📨 Contact
-If you have any questions, please feel free to contact with me at xxx or shenfei140721@126.com.
+If you have any questions, please feel free to contact with me at xxx or shenfei29@nus.edu.sg.
