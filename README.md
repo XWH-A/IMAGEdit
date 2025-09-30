@@ -58,8 +58,8 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2.gif" width="200"/>
+      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2_edit.gif" width="200"/>
       <br>
       <sub>Four [Hungry Dogs -> Robot Wolves] surrounding a bowl of food outdoors.</sub>
     </td>
@@ -87,6 +87,132 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 </table>
 
 ### 🌈Multi-Scenario Applications
+<table align="center">
+  <tr>
+    <td align="center" width="450">
+      <img src="asset/m1_720_gif/bunny-and-fox-in-autumn-clip_processed.gif" width="200"/>
+      <img src="asset/m1_720_gif/buuny-snow_processed.gif" width="200"/>
+      <br>
+      <sub>Automn Forest -> Winter Forest</sub>
+    </td>
+    <td align="center" width="450">
+      <img src="asset/m1_720_gif/fluffy-birds-in-snow_processed.gif" width="200"/>
+      <img src="asset/m1_720_gif/birds-back_processed.gif" width="200"/>
+      <br>
+      <sub>Snowy Forest -> Lunar Surface</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="450">
+      <img src="asset/480p_process_gif/eiffel-flyover_ori.gif" width="200"/>
+      <img src="asset/480p_process_gif/eiffel-flyover.gif" width="200"/>
+      <br>
+      <sub>The Eiffel Tower -> The Space Needle</sub>
+    </td>
+    <td align="center" width="450">
+      <img src="asset/static_gif/glasses-on-book_clip2_processed.gif" width="200"/>
+      <img src="asset/static_gif/glass_processed.gif" width="200"/>
+      <br>
+      <sub>Glasses -> Sunglasses</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="450">
+      <img src="asset/m2_720_gif/Fencers-ori_processed.gif" width="200"/>
+      <img src="asset/m2_720_gif/fench_processed.gif" width="200"/>
+      <br>
+      <sub>Left -> Ultraman; Right -> Robot</sub>
+    </td>
+    <td align="center" width="450">
+      <img src="asset/m2_720_gif/bear_ori.gif" width="200"/>
+      <img src="asset/m2_720_gif/bear-fight_processed.gif" width="200"/>
+      <br>
+      <sub>Left -> Gorilla; Right -> Polar Bear</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="450">
+      <img src="asset/m2_720_gif/night-race2.gif" width="200"/>
+      <img src="asset/m2_720_gif/nightrace2.gif" width="200"/>
+      <br>
+      <sub>Left -> Lightning McQueen; Right -> Yellow Cartoon Porsche</sub>
+    </td>
+    <td align="center" width="450">
+      <img src="asset/m2_720_gif/strong-men-arm-wrestling_processed.gif" width="200"/>
+      <img src="asset/m2_720_gif/strong-men-arm-wrestling-edit_processed.gif" width="200"/>
+      <br>
+      <sub>Left -> Gorilla; Right -> Polar Bear</sub>
+    </td>
+  </tr>
+  
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="asset/m2_720_gif/horse_ori_processed.gif" width="250"/>
+      <br>
+      <sub>Original Video</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="asset/m2_720_gif/Horse-Parade-Team-Formation-all-2.gif" width="250"/>
+      <br>
+      <sub>Turn 1: Horse Riders -> Gokus</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="asset/m2_720_gif/horse-Ironman_processed.gif" width="250"/>
+      <br>
+      <sub>Turn 2: The two above (Gokus -> Iron-Men)</sub>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <table align="center">
+  <tr>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man-running_processed.gif" width="200"/>
+      <br>
+      <sub>Original Video</sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="200"/>
+      <br>
+      <sub>Add Glasses    </sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/dlt_processed.gif" width="200"/>
+      <br>
+      <sub>Change Face To "Kevin Durant"</sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man-james_processed.gif" width="200"/>
+      <br>
+      <sub>Change Face To "LeBron James"</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man-checking-phone_processed.gif" width="200"/>
+      <br>
+      <sub>Original Video</sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/remove_glass_processed.gif" width="200"/>
+      <br>
+      <sub>Remove Glasses</sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man-phone_processed.gif" width="200"/>
+      <br>
+      <sub>Plaid Shirt -> Business Suit</sub>
+    </td>
+    <td align="center" width="225">
+      <img src="asset/480p_process_gif/man-phone2_processed.gif" width="200"/>
+      <br>
+      <sub>Plaid Shirt -> Hawaiian Shirt</sub>
+    </td>
+  </tr>
+</table>
+</table>
 
 
 
