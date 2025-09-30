@@ -39,11 +39,6 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 
 ---
 
-## 🔥 Dataset Demo
-(*Coming soon*)  
-
----
-
 ## 🔥 Examples
 
 <table align="center">
@@ -73,6 +68,49 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 </table>
 
 ---
+
+
+## 🔥 Dataset Demo
+(*Coming soon*)  
+
+---
+
+## 🔧 Requirements
+
+- Python >= 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+- [PyTorch >= 2.0.0](https://pytorch.org/)
+- cuda==11.8
+
+```bash
+conda create --name IMAGDressing python=3.8.10
+conda activate IMAGDressing
+pip install -U pip
+
+# Install requirements
+pip install -r requirements.txt
+```
+
+---
+
+
+## 🌐 Download Models
+You can download our models from [HuggingFace](https://huggingface.co/feishen29/IMAGDressing) or [百度云](https://pan.baidu.com/s/1-69aFUjtrsGnD0OlU0dMzQ?pwd=imag).  You can download the other component models from the original repository, as follows.
+- [stabilityai/sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse).
+- if train: [stable-diffusion-v1-5/stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5), if test: [SG161222/Realistic_Vision_V4.0_noVAE](https://huggingface.co/SG161222/Realistic_Vision_V4.0_noVAE).
+- [h94/IP-Adapter-FaceID](https://huggingface.co/h94/IP-Adapter-FaceID).
+- [lllyasviel/control_v11p_sd15_openpose](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose).
+
+
+
+## 🎉 How to Use
+
+### <span style="color:red">Important Reminder</span>
+
+
+```sh
+python inference_IMAGdressing.py --cloth_path [your cloth path]
+```
+
 
 ## 🙏 Acknowledgement
 We thank the contributors of [IDM-VTON](https://github.com/yisol/IDM-VTON), [MagicClothing](https://github.com/ShineChen1024/MagicClothing), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [ControlNet](https://github.com/lllyasviel/ControlNet), [T2I-Adapter](https://github.com/TencentARC/T2I-Adapter), and [AnimateDiff](https://github.com/guoyww/AnimateDiff) for their open research and inspiration.  
