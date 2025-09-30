@@ -16,6 +16,17 @@
 - [2025/10/1] 🎉 We launch the [project page](https://muzishen.github.io/IMAGEdit/) of IMAGEdit.
 
 
+
+----
+
+### 🚀 **Key Features:**
+1. **Training-Free & Plug-and-Play**: IMAGEdit requires no additional training and can be seamlessly integrated into existing mask-driven video editing backbones.  
+2. **Prompt-Guided Multimodal Alignment**: Aligns user prompts with visual semantics to ensure accurate subject replacement and category transformation.  
+3. **Prior-Based Mask Retargeting**: Leverages depth and temporal priors to generate smooth, time-consistent mask motion sequences, even in crowded scenes.  
+4. **Robust Any-Subject Editing**: Supports flexible editing for single or multiple subjects while preserving background and maintaining temporal coherence across frames.  
+
+
+
 ## 💡 Introduction
 
 We presented IMAGEdit, a training free framework for video editing with any number of subjects that changes designated categories. IMAGEdit provides robust multimodal conditioning and precise mask motion sequences through two key components, a prompt guided multimodal alignment module and a prior based mask retargeting module. By leveraging the understanding and generation capabilities of large pretrained models, these components produce aligned multimodal signals and time consistent masks that effectively remedy insufficient prompt side conditioning and overcome mask boundary entanglement in crowded scenes. The framework then conditions a pretrained mask driven video generator to synthesize the edited video. IMAGEdit is plug and play with a wide range of mask driven backbones and consistently improves overall performance. Extensive experiments on the new multi subject benchmark MSVBench verify that IMAGEdit surpasses state of the art methods. Code, dataset, and weights will be released to support further research.
