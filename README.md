@@ -169,12 +169,12 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   <table align="center">
   <tr>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-running_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man-running_processed.gif" width="175"/>
       <br>
       <sub>Original Video</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="175"/>
       <br>
       <sub>Add Glasses    </sub>
     </td>
@@ -184,29 +184,29 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
       <sub>Change Face To "Durant"</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-james_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man-james_processed.gif" width="175"/>
       <br>
       <sub>Change Face To "James"</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-checking-phone_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man-checking-phone_processed.gif" width="175"/>
       <br>
       <sub>Original Video</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/remove_glass_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/remove_glass_processed.gif" width="175"/>
       <br>
       <sub>Remove Glasses</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-phone_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man-phone_processed.gif" width="175"/>
       <br>
       <sub>Plaid Shirt -> Business Suit</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-phone2_processed.gif" width="180"/>
+      <img src="asset/480p_process_gif/man-phone2_processed.gif" width="175"/>
       <br>
       <sub>Plaid Shirt -> Hawaiian Shirt</sub>
     </td>
