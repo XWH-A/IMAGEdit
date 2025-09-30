@@ -148,17 +148,17 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 </table>
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="280">
       <img src="asset/m2_720_gif/horse_ori_processed.gif" width="250"/>
       <br>
       <sub>Original Video</sub>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="280">
       <img src="asset/m2_720_gif/Horse-Parade-Team-Formation-all-2.gif" width="250"/>
       <br>
       <sub>Turn 1: Horse Riders -> Gokus</sub>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="280">
       <img src="asset/m2_720_gif/horse-Ironman_processed.gif" width="250"/>
       <br>
       <sub>Turn 2: The two above (Gokus -> Iron-Men)</sub>
@@ -168,23 +168,23 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 <table align="center">
   <table align="center">
   <tr>
-    <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-running_processed.gif" width="180"/>
+    <td align="center" width="220">
+      <img src="asset/480p_process_gif/man-running_processed.gif" width="200"/>
       <br>
       <sub>Original Video</sub>
     </td>
-    <td align="center" width="225">
-      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="180"/>
+    <td align="center" width="220">
+      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="200"/>
       <br>
       <sub>Add Glasses    </sub>
     </td>
-    <td align="center" width="225">
-      <img src="asset/480p_process_gif/dlt_processed.gif" width="180"/>
+    <td align="center" width="220">
+      <img src="asset/480p_process_gif/dlt_processed.gif" width="200"/>
       <br>
       <sub>Change Face To "Kevin Durant"</sub>
     </td>
-    <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-james_processed.gif" width="180"/>
+    <td align="center" width="220">
+      <img src="asset/480p_process_gif/man-james_processed.gif" width="200"/>
       <br>
       <sub>Change Face To "LeBron James"</sub>
     </td>
