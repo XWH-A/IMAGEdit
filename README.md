@@ -44,42 +44,42 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 <table align="center">
   <tr>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="200"/>
+      <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="180"/>
+      <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="180"/>
       <br>
       <sub>Three [People -> Super Mario] sitting in car backseat.</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
+      <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="180"/>
+      <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="180"/>
       <br>
       <sub>Four [People -> Robots] standing on football court.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2.gif" width="200"/>
-      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2_edit.gif" width="200"/>
+      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2.gif" width="180"/>
+      <img src="asset/480p_process_gif/dogs-gathering-around-food_processed2_edit.gif" width="180"/>
       <br>
       <sub>Four [Hungry Dogs -> Robot Wolves] surrounding a bowl of food outdoors.</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
+      <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="180"/>
+      <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="180"/>
       <br>
       <sub>A group of [People -> Astronauts] practicing boxing in a fitness studio.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
+      <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="180"/>
+      <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="180"/>
       <br>
       <sub>A team of [Men -> Spider-Men] rowing together on a river.</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
-      <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
+      <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="180"/>
+      <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="180"/>
       <br>
       <sub>Eight [Hurdlers -> Iron Men] leap mid-race over purple hurdles.</sub>
     </td>
@@ -90,56 +90,56 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 <table align="center">
   <tr>
     <td align="center" width="450">
-      <img src="asset/m1_720_gif/bunny-and-fox-in-autumn-clip_processed.gif" width="200"/>
-      <img src="asset/m1_720_gif/buuny-snow_processed.gif" width="200"/>
+      <img src="asset/m1_720_gif/bunny-and-fox-in-autumn-clip_processed.gif" width="180"/>
+      <img src="asset/m1_720_gif/buuny-snow_processed.gif" width="180"/>
       <br>
       <sub>Automn Forest -> Winter Forest</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/m1_720_gif/fluffy-birds-in-snow_processed.gif" width="200"/>
-      <img src="asset/m1_720_gif/birds-back_processed.gif" width="200"/>
+      <img src="asset/m1_720_gif/fluffy-birds-in-snow_processed.gif" width="180"/>
+      <img src="asset/m1_720_gif/birds-back_processed.gif" width="180"/>
       <br>
       <sub>Snowy Forest -> Lunar Surface</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/480p_process_gif/eiffel-flyover_ori.gif" width="200"/>
-      <img src="asset/480p_process_gif/eiffel-flyover.gif" width="200"/>
+      <img src="asset/480p_process_gif/eiffel-flyover_ori.gif" width="180"/>
+      <img src="asset/480p_process_gif/eiffel-flyover.gif" width="180"/>
       <br>
       <sub>The Eiffel Tower -> The Space Needle</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/static_gif/glasses-on-book_clip2_processed.gif" width="200"/>
-      <img src="asset/static_gif/glass_processed.gif" width="200"/>
+      <img src="asset/static_gif/glasses-on-book_clip2_processed.gif" width="180"/>
+      <img src="asset/static_gif/glass_processed.gif" width="180"/>
       <br>
       <sub>Glasses -> Sunglasses</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/m2_720_gif/Fencers-ori_processed.gif" width="200"/>
-      <img src="asset/m2_720_gif/fench_processed.gif" width="200"/>
+      <img src="asset/m2_720_gif/Fencers-ori_processed.gif" width="180"/>
+      <img src="asset/m2_720_gif/fench_processed.gif" width="180"/>
       <br>
       <sub>Left -> Ultraman; Right -> Robot</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/m2_720_gif/bear_ori.gif" width="200"/>
-      <img src="asset/m2_720_gif/bear-fight_processed.gif" width="200"/>
+      <img src="asset/m2_720_gif/bear_ori.gif" width="180"/>
+      <img src="asset/m2_720_gif/bear-fight_processed.gif" width="180"/>
       <br>
       <sub>Left -> Gorilla; Right -> Polar Bear</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="450">
-      <img src="asset/m2_720_gif/night-race2.gif" width="200"/>
-      <img src="asset/m2_720_gif/nightrace2.gif" width="200"/>
+      <img src="asset/m2_720_gif/night-race2.gif" width="180"/>
+      <img src="asset/m2_720_gif/nightrace2.gif" width="180"/>
       <br>
       <sub>Left -> Lightning McQueen; Right -> Yellow Cartoon Porsche</sub>
     </td>
     <td align="center" width="450">
-      <img src="asset/m2_720_gif/strong-men-arm-wrestling_processed.gif" width="200"/>
-      <img src="asset/m2_720_gif/strong-men-arm-wrestling-edit_processed.gif" width="200"/>
+      <img src="asset/m2_720_gif/strong-men-arm-wrestling_processed.gif" width="180"/>
+      <img src="asset/m2_720_gif/strong-men-arm-wrestling-edit_processed.gif" width="180"/>
       <br>
       <sub>Left -> Gorilla; Right -> Polar Bear</sub>
     </td>
@@ -169,44 +169,44 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   <table align="center">
   <tr>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-running_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man-running_processed.gif" width="180"/>
       <br>
       <sub>Original Video</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man_withglass_processed.gif" width="180"/>
       <br>
       <sub>Add Glasses    </sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/dlt_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/dlt_processed.gif" width="180"/>
       <br>
       <sub>Change Face To "Kevin Durant"</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-james_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man-james_processed.gif" width="180"/>
       <br>
       <sub>Change Face To "LeBron James"</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-checking-phone_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man-checking-phone_processed.gif" width="180"/>
       <br>
       <sub>Original Video</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/remove_glass_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/remove_glass_processed.gif" width="180"/>
       <br>
       <sub>Remove Glasses</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-phone_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man-phone_processed.gif" width="180"/>
       <br>
       <sub>Plaid Shirt -> Business Suit</sub>
     </td>
     <td align="center" width="225">
-      <img src="asset/480p_process_gif/man-phone2_processed.gif" width="200"/>
+      <img src="asset/480p_process_gif/man-phone2_processed.gif" width="180"/>
       <br>
       <sub>Plaid Shirt -> Hawaiian Shirt</sub>
     </td>
