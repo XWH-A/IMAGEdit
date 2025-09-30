@@ -43,27 +43,46 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 
 <table align="center">
   <tr>
-    <td align="center"><img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="160"/></td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="200"/>
+      <br>
+      <sub>Three [People -> Super Mario] sitting in car backseat.</sub>
+    </td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
+      <br>
+      <sub>Four [People -> Robots] standing on football court.</sub>
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">Three [People → Super Mario] in car backseat</td>
-    <td colspan="2" align="center">Four [People → Robots] standing on football court</td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
+      <br>
+      <sub>Four [Hungry Dogs -> Robot Wolves] surrounding a bowl of food outdoors.</sub>
+    </td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
+      <br>
+      <sub>A group of [People -> Astronauts] practicing boxing in a fitness studio.</sub>
+    </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
-    <td align="center"><img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="160"/></td>
-    <td align="center"><img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="160"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">Four [Dogs → Robot Wolves] outdoors</td>
-    <td colspan="2" align="center">[People → Astronauts] practicing boxing</td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
+      <br>
+      <sub>A team of [Men -> Spider-Men] rowing together on a river.</sub>
+    </td>
+    <td align="center">
+      <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
+      <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
+      <br>
+      <sub>Eight [Hurdlers -> Iron Men] leap mid-race over purple hurdles.</sub>
+    </td>
   </tr>
 </table>
 
