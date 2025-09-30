@@ -10,6 +10,9 @@
 **IMAGEdit: Let Any Subject Transform [[Project](https://muzishen.github.io/IMAGEdit/)] [[Code](https://github.com/XWH-A/IMAGEdit)]** <br />  
 [Fei Shen](https://muzishen.github.io/), [Weihao Xu](https://github.com/XWH-A/), [Rui Yan](https://ruiyan1995.github.io/), [Dong Zhang](https://dongzhang89.github.io/), [Xiangbo Shu](https://shuxb104.github.io/), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=en) <br />
 
+![Dataset Demo](assets/2.png)
+
+
 ---
 
 ## 📅 Release
