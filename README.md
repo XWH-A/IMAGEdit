@@ -70,10 +70,6 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 ---
 
 
-## 🔥 Dataset Demo
-(*Coming soon*)  
-
----
 
 ## 🔧 Requirements
 
