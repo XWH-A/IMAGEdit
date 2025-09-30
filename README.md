@@ -23,20 +23,20 @@ We presented IMAGEdit, a training free framework for video editing with any numb
 
 <table align="center">
   <tr>
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="150"/>
     </td>
     <td style="position: relative; width: 2px; padding: 0;">
       <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-left: 2px solid #ddd;"></div>
     </td> <!-- 固定分界线位置 -->
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="150"/>
     </td>
   </tr>
   <tr>
@@ -48,20 +48,20 @@ We presented IMAGEdit, a training free framework for video editing with any numb
 
 <table align="center">
   <tr>
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="150"/>
     </td>
     <td style="position: relative; width: 2px; padding: 0;">
       <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-left: 2px solid #ddd;"></div>
     </td> <!-- 固定分界线位置 -->
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="150"/>
     </td>
   </tr>
   <tr>
@@ -73,20 +73,20 @@ We presented IMAGEdit, a training free framework for video editing with any numb
 
 <table align="center">
   <tr>
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="150"/>
     </td>
     <td style="position: relative; width: 2px; padding: 0;">
       <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; border-left: 2px solid #ddd;"></div>
     </td> <!-- 固定分界线位置 -->
-    <td align="center" style="width: 300px; padding-right: 15px;">
-      <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-right: 15px;">
+      <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="150"/>
     </td>
-    <td align="center" style="width: 300px; padding-left: 15px;">
-      <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="300"/>
+    <td align="center" style="width: 150px; padding-left: 15px;">
+      <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="150"/>
     </td>
   </tr>
   <tr>
