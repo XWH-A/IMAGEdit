@@ -43,13 +43,13 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/tuk-tuk_processed.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/tuk-tuk_processed.gif" width="200"/>
       <br>
       <sub>Three [People -> Super Mario] sitting in car backseat.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/Football-Match-Start_processed.gif" width="200"/>
       <br>
@@ -57,13 +57,13 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/dogs-gathering-around-food_processed.gif" width="200"/>
       <br>
       <sub>Four [Hungry Dogs -> Robot Wolves] surrounding a bowl of food outdoors.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/people-training-boxing-class_processed.gif" width="200"/>
       <br>
@@ -71,13 +71,13 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/team-rowing-on-river_processed2.gif" width="200"/>
       <br>
       <sub>A team of [Men -> Spider-Men] rowing together on a river.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="450">
       <img src="asset/ori_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
       <img src="asset/IMAGEdit_720_16_gif/110m-Hurdles-Mid-Air-Dash_processed.gif" width="200"/>
       <br>
@@ -86,7 +86,7 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   </tr>
 </table>
 
----
+### 🌈Multi-Scenario Applications
 
 
 
