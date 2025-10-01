@@ -239,7 +239,7 @@ coming soon
 
 
 ```sh
-python inference_IMAGdressing.py --cloth_path [your cloth path]
+coming soon
 ```
 
 
