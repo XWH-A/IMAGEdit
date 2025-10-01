@@ -223,24 +223,14 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
 - cuda==11.8
 
 ```bash
-conda create --name IMAGDressing python=3.8.10
-conda activate IMAGDressing
-pip install -U pip
-
-# Install requirements
-pip install -r requirements.txt
+coming soon
 ```
 
 ---
 
 
 ## 🌐 Download Models
-You can download our models from [HuggingFace](https://huggingface.co/feishen29/IMAGDressing) or [百度云](https://pan.baidu.com/s/1-69aFUjtrsGnD0OlU0dMzQ?pwd=imag).  You can download the other component models from the original repository, as follows.
-- [stabilityai/sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse).
-- if train: [stable-diffusion-v1-5/stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5), if test: [SG161222/Realistic_Vision_V4.0_noVAE](https://huggingface.co/SG161222/Realistic_Vision_V4.0_noVAE).
-- [h94/IP-Adapter-FaceID](https://huggingface.co/h94/IP-Adapter-FaceID).
-- [lllyasviel/control_v11p_sd15_openpose](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose).
-
+coming soon
 
 
 ## 🎉 How to Use
