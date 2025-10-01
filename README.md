@@ -213,7 +213,7 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   </tr>
 </table>
 </table>
-
+### 🌈Multi-Scenario Applications
 
 
 ## 🔧 Requirements
@@ -254,9 +254,9 @@ python inference_IMAGdressing.py --cloth_path [your cloth path]
 
 
 ## 🙏 Acknowledgement
-We thank the contributors of [IDM-VTON](https://github.com/yisol/IDM-VTON), [MagicClothing](https://github.com/ShineChen1024/MagicClothing), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [ControlNet](https://github.com/lllyasviel/ControlNet), [T2I-Adapter](https://github.com/TencentARC/T2I-Adapter), and [AnimateDiff](https://github.com/guoyww/AnimateDiff) for their open research and inspiration.  
+We thank the contributors of [WAN](https://github.com/Wan-Video/Wan2.1), [VACE](https://github.com/ali-vilab/VACE), for their open research and inspiration.  
 
-The IMAGEdit code is released for **academic use**. All released checkpoints are restricted to research purposes. Users must comply with local laws and take responsibility for their own generations. The authors disclaim liability for misuse.  
+The IMAGEdit code is released for **academic use**. Users must comply with local laws and take responsibility for their own generations. The authors disclaim liability for misuse.  
 
 ---
 
@@ -274,18 +274,18 @@ If you find IMAGEdit useful for your research, please cite:
 ```
 
 ## 🕒 TODO List
-- [x] Gradio demo
-- [x] Inference code
-- [x] Model weights (512 sized version)
-- [x] Support inpaint
-- [ ] Model weights (More higher sized version)
+<!-- - [x] Gradio demo -->
+<!-- - [x] Inference code -->
+<!-- - [x] Model weights (512 sized version) -->
+<!-- - [x] Support inpaint -->
+<!-- - [ ] Model weights (More higher sized version) -->
 - [x] Paper
-- [x] Evaluate metric code
-- [x] IGPair dataset
-- [x] Training code
-- [ ] Video Dressing
+- [ ] Inference Code
+- [ ] Evaluate metric code
+- [ ] MSVBench dataset
 - [ ] Others, such as User-Needed Requirements
-
+<!-- - [x] Training code -->
+<!-- - [ ] Video Dressing -->
 
 ## 👉 **Our other projects:**  
 - [IMAGEdit](https://github.com/XWH-A/IMAGEdit): Training-Free Controllable Video Editing with Consistent Object Layout.  [可控多目标视频编辑]
@@ -303,4 +303,4 @@ If you find IMAGEdit useful for your research, please cite:
 
 
 ## 📨 Contact
-If you have any questions, please feel free to contact with me at xxx or shenfei29@nus.edu.sg.
+If you have any questions, please feel free to contact with whxu@njust.edu.cn at  or shenfei29@nus.edu.sg.
