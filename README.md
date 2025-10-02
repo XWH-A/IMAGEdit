@@ -213,7 +213,6 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
   </tr>
 </table>
 </table>
-### 🌈Multi-Scenario Applications
 
 
 ## 🔧 Requirements
