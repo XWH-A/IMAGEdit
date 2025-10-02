@@ -1,7 +1,7 @@
 # 🎬IMAGEdit🎬: Let Any Subject Transform
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://muzishen.github.io/IMAGEdit/)
-[![Technique Report](https://img.shields.io/badge/Technique-Report-red)](https://muzishen.github.io/IMAGEdit/)
+[![Technique Report](https://img.shields.io/badge/Technique-Report-red)](https://arxiv.org/pdf/2510.01186)
 [![Dataset MSVBench](https://img.shields.io/badge/Dataset-MSVBench-orange)](https://muzishen.github.io/IMAGEdit/)
 [![GitHub stars](https://img.shields.io/github/stars/XWH-A/IMAGEdit?style=social)](https://github.com/XWH-A/IMAGEdit)
 
@@ -257,7 +257,7 @@ If you find IMAGEdit useful for your research, please cite:
 @article{shen2025imagedit,
   title={IMAGEdit: Let Any Subject Transform},
   author={Shen, Fei and Xu, Weihao and Yan, Rui and Zhang, Dong and Shu, Xiangbo and Tang, Jinhui},
-  journal={arXiv preprint arXiv:2509.xxxxx},
+  journal={arXiv preprint arXiv:2510.01186},
   year={2025}
 }
 
