@@ -141,7 +141,7 @@ IMAGEdit is **plug-and-play** with a wide range of backbones and consistently im
       <img src="asset/m2_720_gif/strong-men-arm-wrestling_processed.gif" width="180"/>
       <img src="asset/m2_720_gif/strong-men-arm-wrestling-edit_processed.gif" width="180"/>
       <br>
-      <sub>Left -> Gorilla; Right -> Polar Bear</sub>
+      <sub>Two People (arm wrestling) -> Two Supermen</sub>
     </td>
   </tr>
   
